@@ -105,6 +105,7 @@ p {
 
 
 .logo1 {
+		
 		margin: -55px 50px;
 		} 
 
@@ -321,7 +322,7 @@ table{
 
 .img2{
 display:block;
-margin:auto;
+
 }
 
 .img3 {
@@ -329,12 +330,8 @@ margin:auto;
   }
 
 
-.color {
-	background: rgb(0,0,0);
-	background: linear-gradient(90deg, rgba(0,0,0,1) 7%, rgba(237,7,7,1) 28%, rgba(204,6,6,1) 68%, rgba(0,0,0,1) 96%);
 
-	padding: -70px;
-	margin: -70px;
+
 }
 
 
@@ -758,7 +755,7 @@ p {
 		align-items: center;
 		}
 
-.banner {width: 320px;
+.banner {width: 340px;
 		height: 400px;
 		margin: 50px;
 		display: flex;
@@ -1118,8 +1115,9 @@ p {
 	}
 
 
-.logo1 {
-	margin: -55px 50px;
+.logo1 {height: 30%;
+	width: 25%;
+	margin: -70px 50px;
 	} 
 
 .logo2 {
@@ -1335,18 +1333,20 @@ text-shadow: 0px 3px 3px rgba(255,255,255,0.4),0px -1px 1px rgba(0,0,0,0.3);
 
 .img2{
 display:block;
-margin:auto;
+
 }
 
 .img3 {
 float: right;
+
 }
 
 
 .color {
-background: rgb(0,0,0);
-background: linear-gradient(90deg, rgba(0,0,0,1) 7%, rgba(237,7,7,1) 28%, rgba(204,6,6,1) 68%, rgba(0,0,0,1) 96%);
+	background: rgb(0,0,0);
+	background: linear-gradient(90deg, rgba(0,0,0,1) 7%, rgba(237,7,7,1) 28%, rgba(204,6,6,1) 68%, rgba(0,0,0,1) 96%);
+	margin: -90px;
+	padding: -70px;
 
-padding: -70px;
-margin: -70px;
+
 }
